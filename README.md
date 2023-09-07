@@ -24,7 +24,7 @@ GitHub Actions, CircleCI
 AWS SQS, Kafka, RabbitMQ, EventBridge
 
 **Backend/APIs:**
-Apollo GraphQL, Yoga GraphQL, Express, NestJS
+Apollo GraphQL, Yoga GraphQL, Express, NestJS, .Net & Core
 
 **Databases:**
 MSSQL, MongoDB, PostgreSQL, MariaDB, DynamoDB, RDS
