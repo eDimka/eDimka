@@ -4,13 +4,30 @@ Decades immersed in the enigmatic realms of tech. A seasoned warlock in leading 
 
 Fluent in the tongues of C#, JS/TS, and Python, I whip up digital spells with React & Vue, occasionally peeking at my 'Go for Goblins' guide. With CDK and Terraform, I craft cloud castles faster than you can say "404". My cauldron? It bubbles with GitHub Actions and CircleCI brews. AWS, Kafka, and RabbitMQ are my trusty messenger bats, while Apollo and Express are the bouncers at my code club. Whether it's the airy dance of serverless or the sturdy stomp of monoliths, I've got the magic moves!
 
-CI/CD: Github Actions / CircleCI
-IaC: CDK / Terraform
-TL;DR:
-Frontend: React, Vue, Astro, Next and Nuxt.
-IaC: CDK, Terraform
-CI/CD: GitHub Actions, CircleCI
-Messaging: AWS SQS, Kafka
-Backend: Apollo GraphQL, Yoga GraphQL, Express, NestJS, NextJS, .Net Core
-DBs & Storages: MSSQL, MySQL, MongoDB, PostgreSQL, MariaDB
-2 years of work with Azure and almost a decade on AWS.
+Or in common language:
+
+**Languages:**
+Fluent: C#, JS, TS, Python
+Newbie: Go
+
+**Frontend:**
+React, Vue
+Astro, Next, Nuxt
+
+**Infrastructure:**
+CDK, Terraform
+
+**CI/CD:**
+GitHub Actions, CircleCI
+
+**Messaging:**
+AWS SQS, Kafka, RabbitMQ, EventBridge
+
+**Backend/APIs:**
+Apollo GraphQL, Yoga GraphQL, Express, NestJS
+
+**Databases:**
+MSSQL, MongoDB, PostgreSQL, MariaDB, DynamoDB, RDS
+
+**AWS Services:**
+Lambda, API Gateway, ECS, EKS, Step Functions, S3, CF and ever evolving
