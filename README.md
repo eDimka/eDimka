@@ -7,7 +7,7 @@ Fluent in the tongues of C#, JS/TS, and Python, I whip up digital spells with Re
 Or in common language:
 
 **Languages:**
-Fluent: C#, JS, TS, Python
+Fluent: C#, JS, TS, Python.
 Newbie: Go
 
 **Frontend:**
