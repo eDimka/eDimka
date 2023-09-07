@@ -1,5 +1,16 @@
 ### Dmitri Vinogradov: Web Warlock 👨‍💻
 
-📧 **Email:** [dimavinvin@gmail.com](mailto:dimavinvin@gmail.com)
-
 Decades immersed in the enigmatic realms of tech. A seasoned warlock in leading digital brigades, mentoring fledgling sorcerers, and navigating the vast landscapes from the military's digital trenches to the uncharted territories of NFTs. They say experience is the best teacher; I've got a decade of hard-earned spells under my belt.
+
+Fluent in the tongues of C#, JS/TS, and Python, I whip up digital spells with React & Vue, occasionally peeking at my 'Go for Goblins' guide. With CDK and Terraform, I craft cloud castles faster than you can say "404". My cauldron? It bubbles with GitHub Actions and CircleCI brews. AWS, Kafka, and RabbitMQ are my trusty messenger bats, while Apollo and Express are the bouncers at my code club. Whether it's the airy dance of serverless or the sturdy stomp of monoliths, I've got the magic moves!
+
+CI/CD: Github Actions / CircleCI
+IaC: CDK / Terraform
+TL;DR:
+Frontend: React, Vue, Astro, Next and Nuxt.
+IaC: CDK, Terraform
+CI/CD: GitHub Actions, CircleCI
+Messaging: AWS SQS, Kafka
+Backend: Apollo GraphQL, Yoga GraphQL, Express, NestJS, NextJS, .Net Core
+DBs & Storages: MSSQL, MySQL, MongoDB, PostgreSQL, MariaDB
+2 years of work with Azure and almost a decade on AWS.
