@@ -11,8 +11,7 @@ Fluent: C#, JS, TS, Python.
 Newbie: Go
 
 **Frontend:**
-React, Vue
-Astro, Next, Nuxt
+React, Vue, Astro, Next, Nuxt, and Fiddling around with HTMX lately.
 
 **Infrastructure:**
 CDK, Terraform
@@ -30,4 +29,4 @@ Apollo GraphQL, Yoga GraphQL, Express, NestJS, .Net & Core
 MSSQL, MongoDB, PostgreSQL, MariaDB, DynamoDB, RDS
 
 **AWS Services:**
-Lambda, API Gateway, ECS, EKS, Step Functions, S3, CF and ever evolving
+Lambda, API Gateway, ECS, EKS, Step Functions, S3, CF and ever-evolving
