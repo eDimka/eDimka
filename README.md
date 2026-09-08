@@ -1,5 +1,1 @@
 ### Dima Vinogradov
-
----
-
-Issa me.
